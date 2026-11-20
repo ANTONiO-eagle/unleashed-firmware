@@ -1,8 +1,7 @@
-## New Unleashed FW Dev Build
+## DarkFlippers upstream: Unleashed firmware development build
 
 **Build** - (buildnum)
 **Commit** - [(commitsha)](https://github.com/DarkFlippers/unleashed-firmware/commit/(commitsha))
-### Sponsor our project -> [Patreon](https://patreon.com/mmxdev) or [Boosty](https://boosty.to/mmxdev)
 How to [install firmware](https://github.com/DarkFlippers/unleashed-firmware/blob/dev/documentation/HowToInstall.md)?
 
 ### Install FW via Web Updater:
